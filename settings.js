@@ -1,12 +1,12 @@
 const settings = {
-  packname: 'King Saqr Bot',
+  packname: 'OBITO',
   author: '‎',
-  botName: "King Saqr Bot",
-  botOwner: 'ابو ذياب', // Your name
-  ownerNumber: '994405571044', //Set your number here without + symbol, just add country code & number without any space
+  botName: "OBITO-BOT",
+  botOwner: 'OBITO', // Your name
+  ownerNumber: '212697169828', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
-  description: "This is a bot for managing group commands and automating tasks.",
+  description: "سلم عليك عمك اوبيتو",
   version: "2.0.8",
 };
 
