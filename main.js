@@ -860,7 +860,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'King Saqr Bot',
+                            newsletterName: 'OBITO-BOT',
                             serverMessageId: -1
                         }
                     }
@@ -899,7 +899,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'King Saqr Bot',
+                            newsletterName: 'OBITO-BOT',
                             serverMessageId: -1
                         }
                     }
