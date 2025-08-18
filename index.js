@@ -80,10 +80,10 @@ const store = {
     }
 }
 
-let phoneNumber = "967739965055"
+let phoneNumber = "212697169828"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
-global.botname = "King Saqr Bot"
+global.botname = "OBITO-BOT"
 global.themeemoji = "•"
 
 const settings = require('./settings')
@@ -252,12 +252,12 @@ async function startXeonBotInc() {
             });
 
             await delay(1999)
-            console.log(chalk.yellow(`\n\n  ${chalk.bold.blue(`[ ${global.botname || 'King Saqr Bot'} ]`)}\n\n`))
+            console.log(chalk.yellow(`\n\n  ${chalk.bold.blue(`[ ${global.botname || 'OBITO-BOT'} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
             console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: King Saqr`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: luckytechhub`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} WA NUMBER: ${owner}`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} رصيد: King Saqr`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} رصيد: OBITO`))
             console.log(chalk.green(`${global.themeemoji || '•'} 🤖 بوت متصل بنجاح! ✅`))
         }
         if (
